@@ -3,3 +3,4 @@
 echo "Write some content to the file  gitfile.notepad"  gitfile.notepad
 Write some content to the file  gitfile.notepad gitfile.notepad"
 
+modify gitfile.notepad
